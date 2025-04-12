@@ -55,9 +55,9 @@ This project was completed as part of the INT375 course under the guidance of Ms
 Her mentorship and support were instrumental throughout the project.
 
 🌐 Connect With Me
-GitHub: nikita0109balwada
+GitHub: https://github.com/Sumesh02085/Python-Project-/edit/main/README.md
 
-LinkedIn: https://www.linkedin.com/in/nikita-balwada29/
+LinkedIn: https:https://www.linkedin.com/posts/sumesh3_python-project-activity-7316865486988668928-gD8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYng8gBDc49NgttlVPTu5EcHnMSxzY-BIw
 
 ⭐️ If you found this project interesting, give it a star!
 Feel free to fork, share, or contribute.
